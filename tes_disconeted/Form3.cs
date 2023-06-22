@@ -167,6 +167,7 @@ namespace tes_disconeted
             Form1 fm = new Form1();
             fm.Show();
             this.Hide();
+
         }
     }
 }
