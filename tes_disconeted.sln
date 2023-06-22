@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tes_disconeted", "tes_disconeted\tes_disconeted.csproj", "{A3CA8254-A8B9-430C-B06C-A2C46FBFA956}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3CA8254-A8B9-430C-B06C-A2C46FBFA956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3CA8254-A8B9-430C-B06C-A2C46FBFA956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3CA8254-A8B9-430C-B06C-A2C46FBFA956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3CA8254-A8B9-430C-B06C-A2C46FBFA956}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A38FD11E-C4C9-40E4-A046-9CFB8253D077}
+	EndGlobalSection
+EndGlobal
